@@ -2,13 +2,14 @@
   "name": "Flo · Personal Finance",
   "short_name": "Flo",
   "description": "Personal budget tracker with goals, analytics & smart insights",
-  "start_url": "/",
+  "start_url": "/flo-budget/",
+  "scope": "/flo-budget/",
   "display": "standalone",
   "background_color": "#090b12",
   "theme_color": "#090b12",
   "orientation": "portrait",
   "icons": [
-    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+    { "src": "/flo-budget/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ],
   "categories": ["finance", "productivity"]
 }
